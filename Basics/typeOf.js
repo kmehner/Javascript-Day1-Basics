@@ -1,5 +1,5 @@
 
-// TYPEOF COMVERISON: Used to determine the data type of a variable or value.
+// TYPEOF CONVERSION: Used to determine the data type of a variable or value.
 // The typeof operator returns a string indicating the type of the operand.
 
 let name = "John";
