@@ -88,6 +88,14 @@ greet("Alice");
   The ! (logical NOT) operator returns the opposite of the operand.
 */
 
+/* TRUTH TREE
+  T && T = T
+  T && F = F
+  T || F = T
+  F && F = F
+  F || F = F
+*/
+
 let a = 5;
 let b = 3;
 let total = a + b; // Addition
